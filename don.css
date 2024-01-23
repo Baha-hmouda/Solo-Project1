@@ -1,0 +1,228 @@
+body {
+  background-color: rgb(218, 206, 207);
+}
+
+.imgg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.org{
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  font-size: 20px  }
+
+.diff {
+  background-color: rgb(242, 240, 240);
+  color: rgb(14, 75, 3);
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  font-size: 40px
+
+}
+.pal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}  
+
+.donpl{
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  font-size: 20px  
+}
+
+  .hr{
+      background-color: rgb(26, 93, 15);
+color: rgb(231, 234, 237);
+font-size: 30px;
+
+
+  }
+
+.af {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+  }  
+
+  .donaf{
+      font-weight: bold;
+      font-style: italic;
+      text-align: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      font-size: 20px  
+  }
+
+  .s5 {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}  
+
+.cr{
+  color: rgb(11, 89, 8);
+font-weight: bold;
+font-style: italic;
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+font-size: 30px  
+}
+.visa {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 30%;
+} 
+.master {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  } 
+  .or{
+      font-weight: bold;
+      font-style: italic;
+      text-align: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      font-size: 20px  
+  }
+  .first{
+      color: rgb(6, 83, 31);
+      display: inline-block;
+      font-weight: bold;
+      font-style: italic;
+      text-align: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      font-size: 20px  
+  }
+  .last{
+    color: rgb(6, 83, 31);
+    display: inline-block;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-size: 20px  
+}
+.email{
+  color: rgb(6, 83, 31);
+  display: inline-block;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  font-size: 20px  
+}
+.amount{
+color: rgb(6, 83, 31);
+display: inline-block;
+font-weight: bold;
+font-style: italic;
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+font-size: 20px  
+}
+.card{
+color: rgb(6, 83, 31);
+display: inline-block;
+font-weight: bold;
+font-style: italic;
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+font-size: 20px  
+}
+.cc{
+color: rgb(6, 83, 31);
+display: inline-block;
+font-weight: bold;
+font-style: italic;
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+font-size: 20px  
+}
+  
+  .thx {
+     color: rgb(7, 70, 18);
+      font-weight: bold;
+      text-align: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      font-size: 40px
+  
+    }
+    .s8 {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    .btn{
+background-color: rgb(198, 208, 198);
+color:rgb(6, 83, 31) ;
+      display: inline-block;
+      font-weight: bold;
+      font-style: italic;
+      text-align: center;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+      font-size: 20px  
+  }
+
+
+
+
+
+
+
+
+ 
